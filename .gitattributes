@@ -1,2 +1,0 @@
-MSRefine_v202205.zip filter=lfs diff=lfs merge=lfs -text
-README.md filter=lfs diff=lfs merge=lfs -text
